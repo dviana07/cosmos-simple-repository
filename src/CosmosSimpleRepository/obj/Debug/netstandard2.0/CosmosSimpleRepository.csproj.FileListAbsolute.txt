@@ -1,0 +1,10 @@
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\bin\Debug\netstandard2.0\CosmosSimpleRepository.deps.json
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\bin\Debug\netstandard2.0\CosmosSimpleRepository.dll
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.csprojAssemblyReference.cache
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.csproj.CoreCompileInputs.cache
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.AssemblyInfoInputs.cache
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.AssemblyInfo.cs
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\bin\Debug\netstandard2.0\CosmosSimpleRepository.pdb
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.dll
+C:\Users\diego.viana\source\repos\cosmos-simple-repository\src\CosmosSimpleRepository\obj\Debug\netstandard2.0\CosmosSimpleRepository.pdb
